@@ -6,10 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=tokyonight&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=tokyonight&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud)

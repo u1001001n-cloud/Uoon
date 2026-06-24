@@ -5,11 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Full-Stack%20Developer&fontSize=50&fontAlignY=40" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=tokyonight&layout=compact)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u1001001n-cloud&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u1001001n-cloud&hide=contribs,prs&show_icons=true&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u1001001n-cloud&hide=contribs,prs&show_icons=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />

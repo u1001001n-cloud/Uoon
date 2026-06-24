@@ -12,4 +12,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&t
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud&theme=tokyonight&layout=compact
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u1001001n-cloud)

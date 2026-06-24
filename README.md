@@ -2,6 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=150&section=footer&text=Thank%20You%20for%20Watching&fontSize=30&fontColor=ffffff" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=PORTFOLIO&fontSize=60&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Full-Stack%20Developer&fontSize=50&fontAlignY=40" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
